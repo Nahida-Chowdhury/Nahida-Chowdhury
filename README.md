@@ -25,7 +25,7 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                NAHIDA AHMED CHOWDHURY                       │
+│                  NAHIDA AHMED CHOWDHURY                     │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ROLE        → Full-Stack Software Engineer                 │
@@ -103,18 +103,9 @@
 
 <div align="center">
 
-<img src="./assets/portfoliohub-logo.svg" width="96" height="96" alt="PortfolioHub Logo"/>
-
-# ☕ PortfolioHub
+## ☕ PortfolioHub
 
 ### **A SaaS Portfolio Builder for Creating & Managing Professional Websites**
-
-<p>
-<img src="https://img.shields.io/badge/SaaS-6F4E37?style=flat-square&labelColor=2B2118"/>
-<img src="https://img.shields.io/badge/Vue%203-B08968?style=flat-square&labelColor=2B2118"/>
-<img src="https://img.shields.io/badge/Laravel-8B6B4A?style=flat-square&labelColor=2B2118"/>
-<img src="https://img.shields.io/badge/Stripe-D6C2AD?style=flat-square&labelColor=2B2118"/>
-</p>
 
 </div>
 
@@ -125,7 +116,7 @@ PortfolioHub is my current SaaS-focused engineering project, designed around the
 │                      PORTFOLIOHUB                           │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  Frontend       → Vue 3 + Inertia.js + Pinia               │
+│  Frontend       → Vue 3 + Inertia.js + Pinia                │
 │  Backend        → Laravel 12 + PHP                          │
 │  Database       → MySQL / Tenant Databases                  │
 │  Authentication → Laravel Authentication                    │
@@ -328,12 +319,6 @@ Payment Workflows
 # 🚀 Selected Projects
 
 ## ☕ PortfolioHub
-
-<div align="center">
-
-<img src="./assets/portfoliohub-logo.svg" width="72" height="72" alt="PortfolioHub Logo"/>
-
-</div>
 
 ### **SaaS Portfolio Builder**
 
