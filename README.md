@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=D6C2AD&center=true&vCenter=true&width=850&lines=Building+Practical+Software;Designing+Better+User+Experiences;Engineering+Scalable+SaaS+Systems;Vue+3+%E2%80%A2+Laravel+%E2%80%A2+Inertia.js+%E2%80%A2+Stripe;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Ship"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=D6C2AD&center=true&vCenter=true&width=850&lines=Building+Practical+Software;Designing+Better+User+Experiences;Engineering+Scalable+SaaS+Systems;React+%E2%80%A2+Vue+3+%E2%80%A2+Laravel+%E2%80%A2+Inertia.js+%E2%80%A2+Stripe;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Ship"/>
 
 <br/>
 
@@ -521,7 +521,7 @@ I focus on keeping database structures understandable, maintainable and aligned 
 │                 UI/UX WORKFLOW               │
 ├──────────────────────────────────────────────┤
 │                                              │
-│   Understand → Structure → Design → Build   │
+│   Understand → Structure → Design → Build    │
 │                         ↓                    │
 │                    Validate                  │
 │                         ↓                    │
@@ -552,21 +552,7 @@ I focus on keeping database structures understandable, maintainable and aligned 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nahida-Chowdhury&show_icons=true&hide_border=true&bg_color=2B2118&title_color=D6C2AD&text_color=F5EDE3&icon_color=B08968&ring_color=8B6B4A"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahida-Chowdhury&hide_border=true&background=2B2118&ring=8B6B4A&fire=B08968&currStreakLabel=D6C2AD&sideLabels=D6C2AD&currStreakNum=F5EDE3&sideNums=F5EDE3&dates=D6C2AD"/>
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nahida-Chowdhury/Nahida-Chowdhury/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://streak-stats.demolab.com/?user=Nahida-Chowdhury&hide_border=true&background=2B2118&ring=8B6B4A&fire=B08968&currStreakLabel=D6C2AD&sideLabels=D6C2AD&currStreakNum=F5EDE3&sideNums=F5EDE3&dates=D6C2AD" alt="Nahida Chowdhury GitHub Streak">
 
 </div>
 
@@ -683,7 +669,7 @@ Webhooks
 │  🔒  Security should be considered early      │
 │  ⚡  Performance matters                      │
 │  🧩  Reusable components scale better         │
-│  🏗️  Architecture should serve the product   │
+│  🏗️  Architecture should serve the product    │
 │  🧪  Validate before assuming                 │
 │  📚  Learn continuously                       │
 │  🚀  Build → Test → Improve → Ship            │
@@ -700,10 +686,6 @@ Webhooks
 `Frontend Engineering` • `UI/UX` • `SaaS`
 
 `Mobile Development` • `Product Design` • `Creative Technology`
-
-## 🎮 When I'm Not Coding
-
-**Cooking** • **Gaming** • **Reading** • **Singing**
 
 ---
 
