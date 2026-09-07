@@ -1,394 +1,741 @@
 <div align="center">
 
-<!-- Cinematic Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=3000&pause=1000&color=E8D5C4&center=true&vCenter=true&width=800&height=100&lines=NAHIDA+CHOWDHURY;Full-Stack+Engineer;SaaS+%7C+E-Commerce+%7C+Real-Time;Systems+Architecture" />
-  <img alt="Header" src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=3000&pause=1000&color=E8D5C4&center=true&vCenter=true&width=800&height=100&lines=NAHIDA+CHOWDHURY;Full-Stack+Engineer;SaaS+%7C+E-Commerce+%7C+Real-Time;Systems+Architecture" />
-</picture>
+<!-- ===================== MOCHA HEADER ===================== -->
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2118,25:3B2A20,50:6F4E37,75:8B6B4A,100:B08968&height=220&section=header&text=NAHIDA%20AHMED%20CHOWDHURY&fontSize=42&fontColor=FFF8F0&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20SaaS%20%7C%20UI%2FUX&descAlignY=58&descSize=18&descColor=F5EDE3"/>
 
-## ⌨️ `> whoami`
+<br/>
 
-```
-┌─ Profile Scanner ─────────────────────────────┐
-│ $> Full-Stack Developer                       │
-│ $> Building: SaaS | E-Commerce | Real-Time   │
-│ $> Stack: PHP | Laravel | Node | React       │
-│ $> Focus: Payment Systems & Multi-Tenancy    │
-│ $> Status: 🟢 Open to Innovation              │
-└───────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=D6C2AD&center=true&vCenter=true&width=850&lines=Building+Practical+Software;Designing+Better+User+Experiences;Engineering+Scalable+SaaS+Systems;Vue+3+%E2%80%A2+Laravel+%E2%80%A2+Inertia.js+%E2%80%A2+Stripe;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Ship"/>
 
----
+<br/>
 
-## 🏗️ Architecture & Focus Areas
-
-### 💳 Payment & Financial Systems
-- **Stripe Integration** • Payment gateway architecture • Secure transactions
-- **Financial Accounting** • Transaction tracking • Multi-currency systems
-- **Experience**: Payment Gateway UI, Financial Accounting platforms
-
-### 🏢 SaaS & Multi-Tenancy
-- Scalable database design for multi-tenant isolation
-- Role-based access control (RBAC) & permission systems
-- Subscription management & usage metering
-- **Experience**: School Management System, ResearchBridge
-
-### 🛒 E-Commerce Platforms
-- Full-stack implementation from product catalog to checkout
-- Inventory management & stock tracking
-- Real-time order processing systems
-- **Experience**: E-Commerce Application, SmartCart
-
-### 📱 Real-Time Collaboration
-- WebSocket-driven chat & messaging systems
-- Live data synchronization
-- Notification architectures
-- **Experience**: LinkClick ChatApp, MindSprint
-
-### 📊 Data & Analytics
-- Complex relational database design
-- Administrative dashboards & reporting
-- **Experience**: BugTrack, Bangladesh Administrative Area
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Backend Frameworks**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Database & Storage**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Infrastructure**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Payment & APIs**  
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/Focus-SaaS%20%26%20UI%2FUX-6F4E37?style=for-the-badge&labelColor=2B2118"/>
+<img src="https://img.shields.io/badge/Frontend-Vue%203%20%7C%20React-B08968?style=for-the-badge&labelColor=2B2118"/>
+<img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-8B6B4A?style=for-the-badge&labelColor=2B2118"/>
+<img src="https://img.shields.io/badge/Payments-Stripe-D6C2AD?style=for-the-badge&labelColor=2B2118"/>
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### **E-Commerce Application**
-*Full-stack platform with product management, cart, checkout, and order tracking*
-
-```
-Backend:   Laravel + REST API
-Frontend:  React
-Database:  MySQL with relational schema
-Features:  Payment integration, inventory, multi-user
-Pattern:   MVC + Component architecture
-```
-
-**[→ GitHub Repo](https://github.com/Nahida-Chowdhury/e-commerce-application)**
+<br/>
 
 ---
 
-### **Financial Accounting System**
-*Comprehensive transaction tracking, ledger management, and financial reporting*
+# ☕ `> SYSTEM.IDENTITY`
 
-```
-Backend:   PHP/Laravel
-Database:  MySQL with normalized schema
-Features:  Multi-currency support, tax calculation
-Reports:   Trial balance, P&L statements, ledgers
-Pattern:   Clean code + query optimization
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                NAHIDA AHMED CHOWDHURY                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ROLE        → Full-Stack Software Engineer                 │
+│  SPECIALTY   → SaaS • UI/UX • Web Applications              │
+│  FRONTEND    → Vue 3 • React • JavaScript • CSS             │
+│  BACKEND     → Laravel • PHP • Node.js                      │
+│  ARCHITECTURE→ Inertia.js • Multi-Tenancy • REST            │
+│  DATABASE    → MySQL • MariaDB • PostgreSQL • MongoDB       │
+│  PAYMENTS    → Stripe • Subscriptions • Checkout            │
+│  CURRENT     → Building PortfolioHub                        │
+│  MINDSET     → Build • Learn • Improve • Ship               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**[→ GitHub Repo](https://github.com/Nahida-Chowdhury/financial-accounting)**
+> **I build practical software with a strong focus on clean interfaces, maintainable architecture, scalable SaaS systems, and better user experiences.**
 
 ---
 
-### **School Management System**
-*SaaS-grade multi-tenant platform for educational institutions*
+# 🧠 What I Build
 
-```
-Architecture:  Multi-tenant database isolation
-Auth:          RBAC (Admin, Teachers, Students)
-Features:      Attendance, grades, announcements
-Real-time:     Notifications & live updates
-Tech:          Laravel + React + MySQL
-```
+## 🎨 Frontend & UI/UX
 
-**[→ GitHub Repo](https://github.com/Nahida-Chowdhury/School-Management-System)**
+* Responsive web interfaces
+* Vue 3 application architecture
+* React-based applications
+* Inertia.js SPA experiences
+* Component-driven UI
+* Interactive dashboards
+* Design systems & reusable components
+* Theme and branding systems
+* UI state management with Pinia
+* User-focused workflows
 
----
+## ⚙️ Full-Stack Engineering
 
-### **LinkClick ChatApp**
-*Real-time messaging with WebSocket architecture and user authentication*
+* Laravel application development
+* PHP backend architecture
+* RESTful application design
+* Authentication & authorization
+* Database-driven applications
+* CRUD & business workflows
+* API integrations
+* Server-side validation
+* Application debugging
+* Production-oriented architecture
 
-```
-Backend:   Node.js + Express
-Real-time: Socket.io for live messaging
-Database:  MongoDB/MySQL message store
-Features:  User authentication, message history, typing indicators
-Pattern:   Event-driven architecture
-```
+## 🏢 SaaS & Multi-Tenancy
 
-**[→ GitHub Repo](https://github.com/Nahida-Chowdhury/LinkClick-ChatApp)**
-
----
-
-### **BugTrack**
-*Issue tracking and bug management system with workflow automation*
-
-```
-Purpose:   Team collaboration & bug lifecycle
-Features:  Status tracking, priority levels, assignments
-Database:  MySQL with complex relationships
-UI:        Intuitive dashboard with filters
-```
-
-**[→ GitHub Repo](https://github.com/Nahida-Chowdhury/BugTrack)**
-
----
-
-### **MindSprint**
-*Productivity and task management platform*
-
-```
-Stack:     Modern web framework
-Features:  Sprint planning, task tracking, team collaboration
-Database:  Relational schema for project management
-```
-
-**[→ GitHub Repo](https://github.com/Nahida-Chowdhury/MindSprint)**
-
-</div>
-
----
-
-## 🗄️ Database Expertise
-
-<div align="center">
-
-| Technology | Specialization |
-|:--|:--|
-| **MySQL** | Schema design, normalization, indexing, query optimization |
-| **MariaDB** | Drop-in MySQL replacement, advanced features, performance tuning |
-| **PostgreSQL** | Advanced features, JSONB, full-text search |
-| **MongoDB** | Document modeling, real-time data storage |
-
-**Patterns & Practices:**
-- Multi-tenant database strategies (row-level isolation, schema isolation)
-- Relational schema design for complex domains (financial, educational, e-commerce)
-- Foreign key constraints & referential integrity
-- Query optimization & index strategy
-- Transaction management & ACID compliance
-
-</div>
-
----
+* Multi-tenant application architecture
+* Tenant database isolation
+* Subscription management
+* Plan-based feature access
+* Trial workflows
+* User & tenant provisioning
+* Role-based permissions
+* Portfolio/site builders
+* Central & tenant database patterns
 
 ## 💳 Payment Engineering
 
+* Stripe integration
+* Checkout workflows
+* Subscription management
+* Payment status handling
+* Trial-to-paid conversion
+* Invoice workflows
+* Payment method collection
+* Webhook-driven payment logic
+* BDT/USD currency handling
+
+---
+
+# 🚀 Flagship Project
+
 <div align="center">
 
-**Expertise:**
-- Stripe API integration (payments, subscriptions, webhooks)
-- Secure payment gateway UI/UX
-- PCI compliance considerations
-- Transaction reconciliation
-- Refund & chargeback handling
-- Multi-currency support
+<img src="./assets/portfoliohub-logo.svg" width="96" height="96" alt="PortfolioHub Logo"/>
 
-**Featured Work:**
-- [Payment Gateway UI](https://github.com/Nahida-Chowdhury/Payment_Gateway_UI)
-- E-Commerce checkout flow integration
-- Financial accounting payment tracking
+# ☕ PortfolioHub
+
+### **A SaaS Portfolio Builder for Creating & Managing Professional Websites**
+
+<p>
+<img src="https://img.shields.io/badge/SaaS-6F4E37?style=flat-square&labelColor=2B2118"/>
+<img src="https://img.shields.io/badge/Vue%203-B08968?style=flat-square&labelColor=2B2118"/>
+<img src="https://img.shields.io/badge/Laravel-8B6B4A?style=flat-square&labelColor=2B2118"/>
+<img src="https://img.shields.io/badge/Stripe-D6C2AD?style=flat-square&labelColor=2B2118"/>
+</p>
+
+</div>
+
+PortfolioHub is my current SaaS-focused engineering project, designed around the idea of allowing users to create professional portfolio websites through configurable templates and a centralized dashboard.
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                      PORTFOLIOHUB                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Frontend       → Vue 3 + Inertia.js + Pinia               │
+│  Backend        → Laravel 12 + PHP                          │
+│  Database       → MySQL / Tenant Databases                  │
+│  Authentication → Laravel Authentication                    │
+│  Tenancy        → Multi-Tenant Architecture                 │
+│  Payments       → Stripe                                    │
+│  Templates      → Dynamic Template System                   │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ✓ Template Marketplace                                     │
+│  ✓ Portfolio Editor                                         │
+│  ✓ Multi-Tenant Architecture                                │
+│  ✓ Tenant Provisioning                                      │
+│  ✓ Subscription Plans                                       │
+│  ✓ Free Trial System                                        │
+│  ✓ Stripe Payment Integration                               │
+│  ✓ Invoice Workflows                                        │
+│  ✓ Custom Branding                                          │
+│  ✓ SEO Settings                                             │
+│  ✓ Media Library                                            │
+│  ✓ Portfolio Visibility                                     │
+│  ✓ Admin Dashboard                                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🏗️ Architecture Focus
+
+**Central Application**
+
+```text
+                         ┌───────────────┐
+                         │     USERS     │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+          Tenants            Templates          Purchases
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                                 ▼
+                             Domains
+```
+
+**Tenant Application**
+
+```text
+                         ┌────────────────┐
+                         │     TENANT     │
+                         └───────┬────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+        Portfolio            Sections             Media
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 │
+                     ┌───────────┴───────────┐
+                     ▼                       ▼
+                 Branding                   SEO
+                     │                       │
+                     └───────────┬───────────┘
+                                 ▼
+                         Portfolio Settings
+```
+
+### 🧩 Engineering Challenges
+
+* Designing central and tenant database relationships
+* Building reusable template definitions
+* Supporting template-specific fields
+* Creating dynamic portfolio editors
+* Synchronizing shared branding data
+* Implementing plan-based feature restrictions
+* Building Stripe trial and subscription workflows
+* Handling tenant provisioning
+* Managing media uploads and transformations
+* Maintaining consistent rendering between editor and public portfolio
+
+---
+
+# 🧩 Technology Arsenal
+
+## 🎨 Frontend
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Vue.js-3B2A20?style=for-the-badge&logo=vue.js&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/React-3B2A20?style=for-the-badge&logo=react&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/JavaScript-3B2A20?style=for-the-badge&logo=javascript&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/HTML5-3B2A20?style=for-the-badge&logo=html5&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/CSS3-3B2A20?style=for-the-badge&logo=css3&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/Inertia.js-3B2A20?style=for-the-badge&logo=inertia&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/Pinia-3B2A20?style=for-the-badge&logo=pinia&logoColor=D6C2AD"/>
+
+</div>
+
+## ⚙️ Backend
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-3B2A20?style=for-the-badge&logo=php&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/Laravel-3B2A20?style=for-the-badge&logo=laravel&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/Node.js-3B2A20?style=for-the-badge&logo=node.js&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/Express.js-3B2A20?style=for-the-badge&logo=express&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/REST%20APIs-3B2A20?style=for-the-badge&logo=fastapi&logoColor=B08968"/>
+
+</div>
+
+## 🗄️ Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-3B2A20?style=for-the-badge&logo=mysql&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/MariaDB-3B2A20?style=for-the-badge&logo=mariadb&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/PostgreSQL-3B2A20?style=for-the-badge&logo=postgresql&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/MongoDB-3B2A20?style=for-the-badge&logo=mongodb&logoColor=B08968"/>
+
+</div>
+
+## 💳 Payments & Services
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Stripe-3B2A20?style=for-the-badge&logo=stripe&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/Subscriptions-3B2A20?style=for-the-badge&logo=icloud&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/Invoices-3B2A20?style=for-the-badge&logo=buffer&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/Webhooks-3B2A20?style=for-the-badge&logo=webhooks&logoColor=B08968"/>
+
+</div>
+
+## 🛠️ Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-3B2A20?style=for-the-badge&logo=git&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/GitHub-3B2A20?style=for-the-badge&logo=github&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/Docker-3B2A20?style=for-the-badge&logo=docker&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/VS%20Code-3B2A20?style=for-the-badge&logo=visualstudiocode&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/Postman-3B2A20?style=for-the-badge&logo=postman&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/Figma-3B2A20?style=for-the-badge&logo=figma&logoColor=D6C2AD"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 🏗️ Engineering Domains
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 UI/UX
+
+Responsive Interfaces
+
+Design Systems
+
+Dashboard UX
+
+Component Architecture
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏢 SaaS
+
+Multi-Tenancy
+
+Subscriptions
+
+Trials
+
+Feature Gating
+
+</td>
+
+<td width="33%" align="center">
+
+### 💳 Payments
+
+Stripe
+
+Checkout
+
+Invoices
+
+Payment Workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Selected Projects
+
+## ☕ PortfolioHub
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nahida-Chowdhury&show_icons=true&theme=dark&bg_color=3A2925&title_color=E8D5C4&text_color=E8D5C4&icon_color=8B6555&border_color=8B6555)](https://github.com/Nahida-Chowdhury)
+<img src="./assets/portfoliohub-logo.svg" width="72" height="72" alt="PortfolioHub Logo"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nahida-Chowdhury&layout=compact&theme=dark&bg_color=3A2925&title_color=E8D5C4&text_color=E8D5C4&border_color=8B6555)](https://github.com/Nahida-Chowdhury)
+</div>
 
-[![Contribution Streak](https://streak-stats.demolab.com?user=Nahida-Chowdhury&theme=dark&background=3A2925&currStreakLabel=E8D5C4&fire=8B6555&ring=8B6555)](https://github.com/Nahida-Chowdhury)
+### **SaaS Portfolio Builder**
+
+A full-stack portfolio platform focused on customizable templates, multi-tenancy, subscriptions, branding and professional portfolio publishing.
+
+**Stack**
+
+`Laravel` `Vue 3` `Inertia.js` `Pinia` `MySQL` `Stripe`
+
+---
+
+## 🛒 E-Commerce Application
+
+### **Full-Stack Commerce Platform**
+
+Product management, shopping cart, checkout, order management and database-driven commerce workflows.
+
+**Stack**
+
+`Laravel` `React` `MySQL` `REST API`
+
+---
+
+## 💰 Financial Accounting
+
+### **Financial Management System**
+
+Transaction tracking, ledgers, financial reporting and structured relational data management.
+
+**Stack**
+
+`PHP` `Laravel` `MySQL`
+
+---
+
+## 🏫 School Management System
+
+### **Education Management Platform**
+
+Management workflows for educational institutions with authentication, roles, records and administrative functionality.
+
+**Stack**
+
+`Laravel` `React` `MySQL`
+
+---
+
+## 💬 LinkClick ChatApp
+
+### **Real-Time Communication**
+
+Real-time messaging application with authentication, message persistence and live communication.
+
+**Stack**
+
+`Node.js` `Express` `Socket.io` `MongoDB`
+
+---
+
+## 🐛 BugTrack
+
+### **Issue Tracking System**
+
+A structured application for managing bugs, priorities, assignments and workflow states.
+
+**Stack**
+
+`PHP` `MySQL` `Dashboard UI`
+
+---
+
+# 💳 Payment Engineering
+
+<div align="center">
+
+### `PAYMENT PIPELINE`
+
+</div>
+
+```text
+                       ┌───────────────┐
+                       │     USER      │
+                       └───────┬───────┘
+                               │
+                               ▼
+                       ┌───────────────┐
+                       │  PLAN / TRIAL │
+                       └───────┬───────┘
+                               │
+                               ▼
+                       ┌───────────────┐
+                       │ PAYMENT MODAL │
+                       └───────┬───────┘
+                               │
+                               ▼
+                       ┌───────────────┐
+                       │    STRIPE     │
+                       └───────┬───────┘
+                               │
+                       ┌───────┴───────┐
+                       ▼               ▼
+                  Payment         Subscription
+                  Method            / Invoice
+                       │               │
+                       └───────┬───────┘
+                               │
+                               ▼
+                       ┌───────────────┐
+                       │   PURCHASE    │
+                       │   ACTIVATED   │
+                       └───────────────┘
+```
+
+### Areas of Interest
+
+`Stripe API` • `SetupIntents` • `Subscriptions` • `Invoices` • `Payment Methods`
+
+`Trial Conversion` • `Webhook Processing` • `Transaction State`
+
+---
+
+# 🏢 SaaS Architecture
+
+```text
+                       ┌──────────────────────┐
+                       │     PORTFOLIOHUB     │
+                       │       PLATFORM       │
+                       └──────────┬───────────┘
+                                  │
+                 ┌────────────────┴────────────────┐
+                 │                                 │
+                 ▼                                 ▼
+        ┌──────────────────┐             ┌──────────────────┐
+        │ CENTRAL DATABASE │             │  TENANT DATABASE │
+        ├──────────────────┤             ├──────────────────┤
+        │ Users            │             │ Portfolio        │
+        │ Tenants          │             │ Sections         │
+        │ Domains          │             │ Media            │
+        │ Templates        │             │ Settings         │
+        │ Purchases        │             │ Branding         │
+        └─────────┬────────┘             └─────────┬────────┘
+                  │                                 │
+                  └────────────────┬────────────────┘
+                                   │
+                                   ▼
+                         ┌──────────────────┐
+                         │ PUBLIC PORTFOLIO │
+                         └──────────────────┘
+```
+
+### Core Concepts
+
+* Tenant isolation
+* Centralized platform management
+* Template-driven rendering
+* Subscription-based features
+* Dynamic content management
+* Public portfolio publishing
+* Admin-level platform controls
+
+---
+
+# 🗃️ Database & Architecture
+
+| Technology     | Focus                                                 |
+| -------------- | ----------------------------------------------------- |
+| **MySQL**      | Relational schema design, relationships, indexing     |
+| **MariaDB**    | Local development & database management               |
+| **PostgreSQL** | Relational data modeling & advanced database features |
+| **MongoDB**    | Document-oriented & real-time application data        |
+
+### Database Practices
+
+```text
+Schema Design
+     ↓
+Relationships
+     ↓
+Foreign Keys
+     ↓
+Indexes
+     ↓
+Transactions
+     ↓
+Validation
+     ↓
+Performance
+```
+
+I focus on keeping database structures understandable, maintainable and aligned with the application's business domain.
+
+---
+
+# 🎨 UI/UX Engineering
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                 UI/UX WORKFLOW               │
+├──────────────────────────────────────────────┤
+│                                              │
+│   Understand → Structure → Design → Build   │
+│                         ↓                    │
+│                    Validate                  │
+│                         ↓                    │
+│                     Refine                   │
+│                         ↓                    │
+│                    Release                   │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</div>
+
+### I Care About
+
+* Clear visual hierarchy
+* Responsive layouts
+* Consistent spacing
+* Reusable components
+* Accessible interactions
+* Useful feedback states
+* Simple navigation
+* Consistent branding
+* Practical user flows
+
+---
+
+# 📊 GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nahida-Chowdhury&show_icons=true&hide_border=true&bg_color=2B2118&title_color=D6C2AD&text_color=F5EDE3&icon_color=B08968&ring_color=8B6B4A"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahida-Chowdhury&hide_border=true&background=2B2118&ring=8B6B4A&fire=B08968&currStreakLabel=D6C2AD&sideLabels=D6C2AD&currStreakNum=F5EDE3&sideNums=F5EDE3&dates=D6C2AD"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Matrix
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════╗
-║          CONTRIBUTION TIMELINE                         ║
-║  ────────────────────────────────────────────────────  ║
-║  25+ Public Repositories                              ║
-║  E-Commerce | SaaS | Payment Systems | Real-Time      ║
-║  Spanning: Backend | Frontend | Mobile | Database     ║
-╚════════════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/Nahida-Chowdhury/Nahida-Chowdhury/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Specializations
+# 🏆 Engineering Strengths
 
-<div align="center">
+<table>
+<tr>
 
-| 🎯 | Achievement |
-|:--|:--|
-| **25+** | Active repositories across multiple domains |
-| **💳** | Stripe payment integration & payment gateway systems |
-| **🏗️** | Multi-tenant SaaS architecture & RBAC implementation |
-| **📱** | Cross-platform development (Web + Mobile with Flutter) |
-| **🗄️** | Database design for complex business domains |
-| **🔄** | Real-time systems with WebSocket & event-driven architecture |
-| **💼** | Full-stack development from concept to production |
-| **📊** | Educational, financial, e-commerce, and collaboration platforms |
+<td align="center" width="25%">
 
-</div>
+### 🎨
 
----
+**Frontend**
 
-## 📋 Project Categories
+Vue
 
-<div align="center">
+React
 
-### E-Commerce & Marketplaces
-- E-Commerce Application
-- SmartCart
-- Payment Gateway UI
+Inertia
 
-### Education & Collaboration
-- School Management System
-- ResearchBridge
-- Jagonews24
-- Somoyer_Alo
+Pinia
 
-### Real-Time Applications
-- LinkClick ChatApp
-- MindSprint
+Responsive UI
 
-### Financial Systems
-- Financial Accounting
-- Expense Tracker
+</td>
 
-### Utilities & Tools
-- BugTrack
-- Blood Bank Management System
-- Bangladesh Administrative Area
-- Laravel CRUD
-- PHP CRUD
+<td align="center" width="25%">
 
-### UI/UX & Prototypes
-- Flutter Login Signup UI
-- Portfolio projects
-- PortfolioHub
+### ⚙️
 
-</div>
+**Backend**
 
----
+Laravel
 
-## 🌟 Code Philosophy
+PHP
 
-<div align="center">
+Node.js
 
-```
-┌─────────────────────────────────────────┐
-│  ✨ PRINCIPLES THAT GUIDE MY WORK      │
-├─────────────────────────────────────────┤
-│  🎯 Clarity > Cleverness               │
-│  🔒 Security by default                │
-│  ⚡ Performance conscious              │
-│  📚 Well-documented code               │
-│  🧪 Test coverage & validation         │
-│  🔄 Scalable architecture              │
-│  👥 Collaborative & maintainable       │
-│  🚀 Ship with confidence               │
-└─────────────────────────────────────────┘
-```
+REST
 
-</div>
+Authentication
 
----
+</td>
 
-## 📡 Connect & Collaborate
+<td align="center" width="25%">
 
-<div align="center">
+### 🏢
 
-**Let's build something extraordinary together**
+**SaaS**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nahida-Chowdhury)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahida-chowdhury)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8D5C4?style=for-the-badge&logo=firefox&logoColor=3A2925)](https://nahida-chowdhury.com)
+Multi-Tenancy
+
+Subscriptions
+
+Trials
+
+RBAC
+
+Feature Gating
+
+</td>
+
+<td align="center" width="25%">
+
+### 💳
+
+**Payments**
+
+Stripe
+
+Checkout
+
+Invoices
+
+Payment Methods
+
+Webhooks
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🌌 Currently Exploring
+# 📚 Currently Exploring
 
-```
-→ Advanced SaaS architectures & scaling patterns
-→ Distributed system design & microservices
-→ Real-time collaboration technologies
-→ Payment processing at scale
-→ Database optimization & indexing strategies
-→ DevOps & infrastructure automation
+```text
+→ Advanced SaaS architecture
+→ Multi-tenant application patterns
+→ Better Vue 3 architecture
+→ Scalable Laravel applications
+→ Payment & subscription workflows
+→ UI/UX engineering
+→ Database optimization
+→ Mobile application development
+→ Cloud & deployment workflows
+→ Clean and maintainable software architecture
 ```
 
 ---
+
+# 🧭 Engineering Philosophy
+
+```text
+┌────────────────────────────────────────────────┐
+│             ENGINEERING PRINCIPLES             │
+├────────────────────────────────────────────────┤
+│                                                │
+│  🎯  Clarity over unnecessary complexity      │
+│  🎨  UX is part of engineering                │
+│  🔒  Security should be considered early      │
+│  ⚡  Performance matters                      │
+│  🧩  Reusable components scale better         │
+│  🏗️  Architecture should serve the product   │
+│  🧪  Validate before assuming                 │
+│  📚  Learn continuously                       │
+│  🚀  Build → Test → Improve → Ship            │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌱 Beyond Code
+
+## 💡 Interests
+
+`Frontend Engineering` • `UI/UX` • `SaaS`
+
+`Mobile Development` • `Product Design` • `Creative Technology`
+
+## 🎮 When I'm Not Coding
+
+**Cooking** • **Gaming** • **Reading** • **Singing**
+
+---
+
+# 📡 Connect With Me
+
+<div align="center">
 
 ### 💬 Open To
 
-- **Collaboration** on full-stack projects
-- **Consulting** on SaaS & e-commerce architecture
-- **Mentoring** aspiring developers
-- **Partnerships** on innovative products
-- **Speaking** about payment systems & real-time apps
+`Frontend Opportunities` • `Full-Stack Projects` • `UI/UX Collaboration`
 
----
+`SaaS Development` • `Internships` • `Interesting Technical Challenges`
 
-### 📨 Get In Touch
+<br/>
 
-```
-Email:     your.email@example.com
-GitHub:    github.com/Nahida-Chowdhury
-LinkedIn:  linkedin.com/in/nahida-chowdhury
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2118,25:3B2A20,50:6F4E37,75:8B6B4A,100:B08968&height=120&section=footer"/>
 
----
-
-**`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=5000&pause=500&color=8B6555&center=true&vCenter=true&width=600&lines=%3E+_+commit+--m+%22Ship+code.+Build+products.+Create+impact%22" />
-
-**`Last Updated: September 2026 | Built with dedication & ☕`**
+### ☕ **Build with purpose. Design with intention. Ship with confidence.**
 
 </div>
