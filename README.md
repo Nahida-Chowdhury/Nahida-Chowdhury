@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-8B6B4A?style=for-the-badge&labelColor=2B2118"/>
 <img src="https://img.shields.io/badge/Payments-Stripe-D6C2AD?style=for-the-badge&labelColor=2B2118"/>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nahida-Chowdhury&label=PROFILE%20VIEWS&color=6F4E37&style=flat-square" alt="Profile Views"/>
+
 </div>
 
 <br/>
