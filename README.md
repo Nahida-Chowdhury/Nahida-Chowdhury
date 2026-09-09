@@ -329,16 +329,27 @@ A full-stack portfolio platform focused on customizable templates, multi-tenancy
 `Laravel` `Vue 3` `Inertia.js` `Pinia` `MySQL` `Stripe`
 
 ---
+## 🔬 ResearchBridge
 
-## 🛒 E-Commerce Application
+### **Web-based Research Management System**
 
-### **Full-Stack Commerce Platform**
-
-Product management, shopping cart, checkout, order management and database-driven commerce workflows.
+ResearchBridge is a Laravel-based research management system that enables researchers, supervisors, and administrators to collaborate on research projects, manage tasks, milestones, meetings, citations, announcements, and notifications through a secure role-based platform.
 
 **Stack**
 
-`Laravel` `React` `MySQL` `REST API`
+`Laravel` `MySQL` `TailwindCss`
+
+---
+
+## 🛒 Fashion Store - Flutter E-commerce App
+
+### **Full-Stack Commerce Platform**
+
+A modern and functional e-commerce mobile application built with Flutter and Firebase, featuring product browsing, cart, wishlist, secure authentication, and order management. Designed with elegant UI, smooth navigation, and scalable architecture using GetX.
+
+**Stack**
+
+`Dart` `Flutter` `Firebase`
 
 ---
 
@@ -350,7 +361,7 @@ Transaction tracking, ledgers, financial reporting and structured relational dat
 
 **Stack**
 
-`PHP` `Laravel` `MySQL`
+`HTML` `Javascript`
 
 ---
 
@@ -358,11 +369,11 @@ Transaction tracking, ledgers, financial reporting and structured relational dat
 
 ### **Education Management Platform**
 
-Management workflows for educational institutions with authentication, roles, records and administrative functionality.
+A Java-GUI based school management system. It features role-based login for teachers and admins, offering functionalities like account creation, student registration, exam scheduling, and class management. Admins can also view recent login activities for enhanced security.
 
 **Stack**
 
-`Laravel` `React` `MySQL`
+`Java` `MySQL`
 
 ---
 
@@ -374,7 +385,7 @@ Real-time messaging application with authentication, message persistence and liv
 
 **Stack**
 
-`Node.js` `Express` `Socket.io` `MongoDB`
+`Python` `Socket.io`
 
 ---
 
@@ -386,7 +397,7 @@ A structured application for managing bugs, priorities, assignments and workflow
 
 **Stack**
 
-`PHP` `MySQL` `Dashboard UI`
+`Vue 3` `Bootstrap 5` `JavaScript (ES6+)`
 
 ---
 
