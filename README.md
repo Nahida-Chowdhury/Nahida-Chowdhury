@@ -18,6 +18,14 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Nahida-Chowdhury&label=PROFILE%20VIEWS&color=6F4E37&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/Nahida-Chowdhury?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View-B08968?style=flat-square&labelColor=2B2118&logo=github&logoColor=F5EDE3" alt="Repositories"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nahida-ahmed-chowdhury-56b100318/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-D6C2AD?style=flat-square&labelColor=2B2118&logo=linkedin&logoColor=F5EDE3" alt="LinkedIn"/>
+</a>
 
 </div>
 
