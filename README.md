@@ -25,6 +25,32 @@
 
 ---
 
+# 👩‍💻 About Me
+
+Hi! I'm **Nahida Ahmed Chowdhury**, a Software Engineer interested in **Full-Stack Development, SaaS, and UI/UX**.
+
+I enjoy building practical web applications with clean interfaces, scalable architecture, and user-friendly experiences.
+
+Currently, I'm working on **PortfolioHub**, a multi-tenant SaaS portfolio builder.
+
+---
+
+# 🎓 Education
+
+**BSc in Software Engineering**
+Metropolitan University
+`2022 — 2026` 
+
+# 💼 Experience
+
+### Software Engineering Intern — IT Lab Solutions Limited
+
+Worked on practical software development involving:
+
+`Frontend Development` • `Backend Development` • `Databases` • `UI/UX` • `Debugging`
+
+---
+
 # ☕ `> SYSTEM.IDENTITY`
 
 ```text
@@ -44,6 +70,7 @@
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+
 
 > **I build practical software with a strong focus on clean interfaces, maintainable architecture, scalable SaaS systems, and better user experiences.**
 
@@ -567,11 +594,42 @@ I focus on keeping database structures understandable, maintainable and aligned 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Nahida-Chowdhury&hide_border=true&background=2B2118&ring=8B6B4A&fire=B08968&currStreakLabel=D6C2AD&sideLabels=D6C2AD&currStreakNum=F5EDE3&sideNums=F5EDE3&dates=D6C2AD" alt="Nahida Chowdhury GitHub Streak">
+### `CODE • COMMIT • CONTRIBUTE • CREATE`
+
+<br/><br/>
+
+<!-- ===================== GITHUB STREAK ===================== -->
+
+<img src="https://streak-stats.demolab.com/?user=Nahida-Chowdhury&hide_border=true&background=2B2118&ring=8B6B4A&fire=B08968&currStreakLabel=D6C2AD&sideLabels=D6C2AD&currStreakNum=F5EDE3&sideNums=F5EDE3&dates=D6C2AD"/>
+
+<br/><br/>
+
+<!-- ===================== PROFILE SUMMARY ===================== -->
+
+### 🧭 GitHub Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahida-Chowdhury&theme=github_dark"/>
+
+<br/><br/>
+
+<!-- ===================== PRODUCTIVE TIME ===================== -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nahida-Chowdhury&theme=github_dark&utcOffset=6"/>
+
+<br/><br/>
+
+<!-- ===================== REPOSITORY SUMMARY ===================== -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahida-Chowdhury&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahida-Chowdhury&theme=github_dark"/>
+
+<br/><br/>
 
 </div>
 
 ---
+
 
 # 🏆 Engineering Strengths
 
