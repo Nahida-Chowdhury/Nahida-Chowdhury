@@ -262,56 +262,6 @@ PortfolioHub is my current SaaS-focused engineering project, designed around the
 
 ---
 
-# 🏗️ Engineering Domains
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎨 UI/UX
-
-Responsive Interfaces
-
-Design Systems
-
-Dashboard UX
-
-Component Architecture
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏢 SaaS
-
-Multi-Tenancy
-
-Subscriptions
-
-Trials
-
-Feature Gating
-
-</td>
-
-<td width="33%" align="center">
-
-### 💳 Payments
-
-Stripe
-
-Checkout
-
-Invoices
-
-Payment Workflows
-
-</td>
-</tr>
-</table>
-
----
-
 # 🚀 Selected Projects
 
 ## ☕ PortfolioHub
@@ -451,89 +401,6 @@ A structured application for managing bugs, priorities, assignments and workflow
 
 ---
 
-
-# 🏆 Engineering Strengths
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Frontend**
-
-Vue
-
-React
-
-Inertia
-
-Pinia
-
-Responsive UI
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Backend**
-
-Laravel
-
-PHP
-
-Node.js
-
-REST
-
-Authentication
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏢
-
-**SaaS**
-
-Multi-Tenancy
-
-Subscriptions
-
-Trials
-
-RBAC
-
-Feature Gating
-
-</td>
-
-<td align="center" width="25%">
-
-### 💳
-
-**Payments**
-
-Stripe
-
-Checkout
-
-Invoices
-
-Payment Methods
-
-Webhooks
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 📚 Currently Exploring
 
 ```text
@@ -547,28 +414,6 @@ Webhooks
 → Mobile application development
 → Cloud & deployment workflows
 → Clean and maintainable software architecture
-```
-
----
-
-# 🧭 Engineering Philosophy
-
-```text
-┌────────────────────────────────────────────────┐
-│             ENGINEERING PRINCIPLES             │
-├────────────────────────────────────────────────┤
-│                                                │
-│  🎯  Clarity over unnecessary complexity      │
-│  🎨  UX is part of engineering                │
-│  🔒  Security should be considered early      │
-│  ⚡  Performance matters                      │
-│  🧩  Reusable components scale better         │
-│  🏗️  Architecture should serve the product    │
-│  🧪  Validate before assuming                 │
-│  📚  Learn continuously                       │
-│  🚀  Build → Test → Improve → Ship            │
-│                                                │
-└────────────────────────────────────────────────┘
 ```
 
 ---
