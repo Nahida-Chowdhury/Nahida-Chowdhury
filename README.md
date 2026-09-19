@@ -264,17 +264,6 @@ PortfolioHub is my current SaaS-focused engineering project, designed around the
 
 # 🚀 Selected Projects
 
-## ☕ PortfolioHub
-
-### **SaaS Portfolio Builder**
-
-A full-stack portfolio platform focused on customizable templates, multi-tenancy, subscriptions, branding and professional portfolio publishing.
-
-**Stack**
-
-`Laravel` `Vue 3` `Inertia.js` `Pinia` `MySQL` `Stripe`
-
----
 ## 🔬 ResearchBridge
 
 ### **Web-based Research Management System**
@@ -335,18 +324,6 @@ Real-time messaging application with authentication, message persistence and liv
 
 ---
 
-## 🐛 BugTrack
-
-### **Issue Tracking System**
-
-A structured application for managing bugs, priorities, assignments and workflow states.
-
-**Stack**
-
-`Vue 3` `Bootstrap 5` `JavaScript (ES6+)`
-
----
-
 ### I Care About
 
 * Clear visual hierarchy
@@ -380,12 +357,6 @@ A structured application for managing bugs, priorities, assignments and workflow
 ### 🧭 GitHub Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahida-Chowdhury&theme=github_dark"/>
-
-<br/><br/>
-
-<!-- ===================== PRODUCTIVE TIME ===================== -->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nahida-Chowdhury&theme=github_dark&utcOffset=6"/>
 
 <br/><br/>
 
