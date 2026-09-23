@@ -35,27 +35,11 @@
 
 # 👩‍💻 About Me
 
-Hi! I'm **Nahida Ahmed Chowdhury**, a Software Engineer interested in **Full-Stack Development, SaaS, and UI/UX**.
+I'm **Nahida Ahmed Chowdhury**, a Software Engineer focused on **Full-Stack Development, SaaS, and UI/UX**. I enjoy turning ideas into practical web applications with clean interfaces and maintainable architecture.
 
-I enjoy building practical web applications with clean interfaces, scalable architecture, and user-friendly experiences.
+My main stack includes **Vue 3, Laravel, PHP, JavaScript, MySQL, Inertia.js, and Stripe**, with additional experience in **React, Node.js, Java, Python, Flutter, and MongoDB**.
 
-Currently, I'm working on **PortfolioHub**, a multi-tenant SaaS portfolio builder.
-
----
-
-# 🎓 Education
-
-**BSc in Software Engineering**
-Metropolitan University
-`2022 — 2026` 
-
-# 💼 Experience
-
-### Software Engineering Intern — IT Lab Solutions Limited
-
-Worked on practical software development involving:
-
-`Frontend Development` • `Backend Development` • `Databases` • `UI/UX` • `Debugging`
+Currently, I'm building **PortfolioHub**, a multi-tenant SaaS portfolio builder, while continuing to explore scalable application architecture, better user experiences, and modern software development practices.
 
 ---
 
@@ -81,60 +65,6 @@ Worked on practical software development involving:
 
 
 > **I build practical software with a strong focus on clean interfaces, maintainable architecture, scalable SaaS systems, and better user experiences.**
-
----
-
-# 🧠 What I Build
-
-## 🎨 Frontend & UI/UX
-
-* Responsive web interfaces
-* Vue 3 application architecture
-* React-based applications
-* Inertia.js SPA experiences
-* Component-driven UI
-* Interactive dashboards
-* Design systems & reusable components
-* Theme and branding systems
-* UI state management with Pinia
-* User-focused workflows
-
-## ⚙️ Full-Stack Engineering
-
-* Laravel application development
-* PHP backend architecture
-* RESTful application design
-* Authentication & authorization
-* Database-driven applications
-* CRUD & business workflows
-* API integrations
-* Server-side validation
-* Application debugging
-* Production-oriented architecture
-
-## 🏢 SaaS & Multi-Tenancy
-
-* Multi-tenant application architecture
-* Tenant database isolation
-* Subscription management
-* Plan-based feature access
-* Trial workflows
-* User & tenant provisioning
-* Role-based permissions
-* Portfolio/site builders
-* Central & tenant database patterns
-
-## 💳 Payment Engineering
-
-* Stripe integration
-* Checkout workflows
-* Subscription management
-* Payment status handling
-* Trial-to-paid conversion
-* Invoice workflows
-* Payment method collection
-* Webhook-driven payment logic
-* BDT/USD currency handling
 
 ---
 
@@ -203,36 +133,23 @@ PortfolioHub is my current SaaS-focused engineering project, designed around the
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Vue.js-3B2A20?style=for-the-badge&logo=vue.js&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/React-3B2A20?style=for-the-badge&logo=react&logoColor=D6C2AD"/>
-<img src="https://img.shields.io/badge/JavaScript-3B2A20?style=for-the-badge&logo=javascript&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/HTML5-3B2A20?style=for-the-badge&logo=html5&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/CSS3-3B2A20?style=for-the-badge&logo=css3&logoColor=D6C2AD"/>
-<img src="https://img.shields.io/badge/Inertia.js-3B2A20?style=for-the-badge&logo=inertia&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/Pinia-3B2A20?style=for-the-badge&logo=pinia&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/Vue.js-3B2A20?style=for-the-badge&logo=vue.js&logoColor=B08968" alt="Vue.js" /> <img src="https://img.shields.io/badge/React-3B2A20?style=for-the-badge&logo=react&logoColor=D6C2AD" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-3B2A20?style=for-the-badge&logo=javascript&logoColor=B08968" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-3B2A20?style=for-the-badge&logo=html5&logoColor=D6C2AD" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-3B2A20?style=for-the-badge&logo=css3&logoColor=B08968" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-3B2A20?style=for-the-badge&logo=bootstrap&logoColor=D6C2AD" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-3B2A20?style=for-the-badge&logo=tailwindcss&logoColor=B08968" alt="Tailwind CSS" />
 
 </div>
 
-## ⚙️ Backend
+## ⚙️ Backend and 🗄️ Databases
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-3B2A20?style=for-the-badge&logo=php&logoColor=D6C2AD"/>
-<img src="https://img.shields.io/badge/Laravel-3B2A20?style=for-the-badge&logo=laravel&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/Node.js-3B2A20?style=for-the-badge&logo=node.js&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/Express.js-3B2A20?style=for-the-badge&logo=express&logoColor=D6C2AD"/>
-<img src="https://img.shields.io/badge/REST%20APIs-3B2A20?style=for-the-badge&logo=fastapi&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/Laravel-3B2A20?style=for-the-badge&logo=laravel&logoColor=B08968" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-3B2A20?style=for-the-badge&logo=php&logoColor=D6C2AD" alt="PHP" /> <img src="https://img.shields.io/badge/Node.js-3B2A20?style=for-the-badge&logo=node.js&logoColor=B08968" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-3B2A20?style=for-the-badge&logo=express&logoColor=D6C2AD" alt="Express.js" /> <img src="https://img.shields.io/badge/MySQL-3B2A20?style=for-the-badge&logo=mysql&logoColor=B08968" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-3B2A20?style=for-the-badge&logo=mongodb&logoColor=D6C2AD" alt="MongoDB" /> <img src="https://img.shields.io/badge/REST%20API-3B2A20?style=for-the-badge&logo=fastapi&logoColor=B08968" alt="REST API" />
 
 </div>
 
-## 🗄️ Databases
+## 💻 Other Technologies
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-3B2A20?style=for-the-badge&logo=mysql&logoColor=D6C2AD"/>
-<img src="https://img.shields.io/badge/MariaDB-3B2A20?style=for-the-badge&logo=mariadb&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/PostgreSQL-3B2A20?style=for-the-badge&logo=postgresql&logoColor=D6C2AD"/>
-<img src="https://img.shields.io/badge/MongoDB-3B2A20?style=for-the-badge&logo=mongodb&logoColor=B08968"/>
+<img src="https://img.shields.io/badge/Java-3B2A20?style=for-the-badge&logo=openjdk&logoColor=B08968" alt="Java" /> <img src="https://img.shields.io/badge/Python-3B2A20?style=for-the-badge&logo=python&logoColor=D6C2AD" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-3B2A20?style=for-the-badge&logo=cplusplus&logoColor=B08968" alt="C++" /> <img src="https://img.shields.io/badge/C-3B2A20?style=for-the-badge&logo=c&logoColor=D6C2AD" alt="C" /> <img src="https://img.shields.io/badge/Flutter-3B2A20?style=for-the-badge&logo=flutter&logoColor=B08968" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-3B2A20?style=for-the-badge&logo=dart&logoColor=D6C2AD" alt="Dart" />
 
 </div>
 
@@ -253,10 +170,11 @@ PortfolioHub is my current SaaS-focused engineering project, designed around the
 
 <img src="https://img.shields.io/badge/Git-3B2A20?style=for-the-badge&logo=git&logoColor=B08968"/>
 <img src="https://img.shields.io/badge/GitHub-3B2A20?style=for-the-badge&logo=github&logoColor=D6C2AD"/>
-<img src="https://img.shields.io/badge/Docker-3B2A20?style=for-the-badge&logo=docker&logoColor=B08968"/>
-<img src="https://img.shields.io/badge/VS%20Code-3B2A20?style=for-the-badge&logo=visualstudiocode&logoColor=D6C2AD"/>
 <img src="https://img.shields.io/badge/Postman-3B2A20?style=for-the-badge&logo=postman&logoColor=B08968"/>
 <img src="https://img.shields.io/badge/Figma-3B2A20?style=for-the-badge&logo=figma&logoColor=D6C2AD"/>
+<img src="https://img.shields.io/badge/VS%20Code-3B2A20?style=for-the-badge&logo=visualstudiocode&logoColor=B08968" alt="VS Code" /> 
+<img src="https://img.shields.io/badge/XAMPP-3B2A20?style=for-the-badge&logo=xampp&logoColor=D6C2AD" alt="XAMPP" /> 
+<img src="https://img.shields.io/badge/phpMyAdmin-3B2A20?style=for-the-badge&logo=phpmyadmin&logoColor=B08968" alt="phpMyAdmin" />
 
 </div>
 
@@ -328,7 +246,6 @@ Real-time messaging application with authentication, message persistence and liv
 
 * Clear visual hierarchy
 * Responsive layouts
-* Consistent spacing
 * Reusable components
 * Accessible interactions
 * Useful feedback states
@@ -375,16 +292,12 @@ Real-time messaging application with authentication, message persistence and liv
 # 📚 Currently Exploring
 
 ```text
-→ Advanced SaaS architecture
-→ Multi-tenant application patterns
-→ Better Vue 3 architecture
-→ Scalable Laravel applications
-→ Payment & subscription workflows
-→ UI/UX engineering
-→ Database optimization
-→ Mobile application development
-→ Cloud & deployment workflows
-→ Clean and maintainable software architecture
+→ SaaS & Multi-Tenant Architecture
+→ Vue 3 & Laravel Development
+→ Payment & Subscription Systems
+→ UI/UX Engineering
+→ Database & Application Optimization
+→ Mobile & Cloud Development
 ```
 
 ---
